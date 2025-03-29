@@ -1,4 +1,4 @@
-# 👋 Hi, I’m DjabelWilly
+# 👋 Hello, I’m Willy
 
 - 👀 I’m passionate about web development and love exploring new web programming languages.
 - 🌱 Currently diving into the JavaScript ecosystem, including frameworks like React, Node.js, and more.
